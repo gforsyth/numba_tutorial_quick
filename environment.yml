@@ -1,9 +1,0 @@
- name: numbatutorial
- dependencies:
-   - python=3.5
-   - numpy
-   - matplotlib
-   - numba=0.26.0
-   - line_profiler
-   - jupyter
-   - ipython
